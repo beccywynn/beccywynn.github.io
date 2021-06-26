@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://mikeandrews90.github.io"
+baseURL = "https://beccywynn.com"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 #themesDir = "../.."
